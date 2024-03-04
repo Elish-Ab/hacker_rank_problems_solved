@@ -1,7 +1,7 @@
-// The Problem
-'''Given a year, determine whether it is a leap year. If it is a leap year, return the Boolean True, otherwise return False.
-Note that the code stub provided reads from STDIN and passes arguments to the is_leap function. It is only necessary to complete the is_leap function.'''
-// for the matter of readability and cleaness, I haven't write all the problem here...you can find it on the official site of hackerrank.com
+'''                                  The Problem
+Given a year, determine whether it is a leap year. If it is a leap year, return the Boolean True, otherwise return False.
+Note that the code stub provided reads from STDIN and passes arguments to the is_leap function. It is only necessary to complete the is_leap function.
+for the matter of readability and cleaness, I haven't write all the problem here...you can find it on the official site of hackerrank.com '''
 
 //here the code goes
 
